@@ -77,6 +77,7 @@ namespace PlagiarismBud
 
                 foreach (PFile p2 in PFile.ToList())
                 {
+                    if (p2 == null) { continue; }
                     if (p.FileCreated.Equals(p2.FileCreated) && !p.Equals(p2) || p.FileModified.Equals(p2.FileModified) && !p.Equals(p2))
                     {
                         // Check if it already contains plagiarised file. If not, add it.
