@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlagiarismBud", "PlagiarismBud\PlagiarismBud.csproj", "{3A3971B1-8644-4523-BF71-689E46F5C7F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A3971B1-8644-4523-BF71-689E46F5C7F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A3971B1-8644-4523-BF71-689E46F5C7F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A3971B1-8644-4523-BF71-689E46F5C7F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A3971B1-8644-4523-BF71-689E46F5C7F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE9FEE67-370F-4967-BA08-4910E0D18CE2}
+	EndGlobalSection
+EndGlobal
