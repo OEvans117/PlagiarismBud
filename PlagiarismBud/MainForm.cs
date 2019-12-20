@@ -96,6 +96,7 @@ namespace PlagiarismBud
             }
 
             if (PFiles.Count == 0) { return; }
+
             btnNext.Visible = true; btnPrevious.Visible = true; lvFiles.ContextMenuStrip = cmsFileSettings;
 
             foreach (PFile p in PFiles[CurrentPage].PlagiarisedFiles)
