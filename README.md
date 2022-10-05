@@ -1,5 +1,4 @@
 # PlagiarismBud
-An optimized, open source software used to check dates modified &amp; created for a lot of files.
 
 ![Page 2](https://i.imgur.com/RwHenx1.png)
 
